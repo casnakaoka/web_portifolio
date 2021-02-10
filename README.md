@@ -1,2 +1,2 @@
 # web_portifolio
-Elaboração de uma pagina web usando html e css
+Pequeno projeto com intenção de elaborar um portifolio usando html, css e bootstrap.
